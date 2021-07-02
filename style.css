@@ -2,3 +2,7 @@ p{
     color: blue;
     background-color: rgb(255, 255, 255);
 }
+img{
+    max-width: 100%;
+
+} 
